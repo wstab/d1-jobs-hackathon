@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-jobs-hackathon",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f525fb75-3c60-4786-bac1-1ea6fcd99ec3",
+      "database_name": "d1-database-jobs"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
